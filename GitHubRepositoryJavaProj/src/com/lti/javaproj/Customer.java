@@ -4,7 +4,7 @@ public class Customer {
 	private int id;
 	private String name;
 	private double bill;
-	public Product(int prdId, String prdName, double prdCost) {
+	public Customer(int prdId, String prdName, double prdCost) {
 		super();
 		this.id = prdId;
 		this.name = prdName;
