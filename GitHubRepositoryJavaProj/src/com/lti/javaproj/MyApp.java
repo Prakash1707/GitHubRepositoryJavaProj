@@ -1,6 +1,7 @@
 package com.lti.javaproj;
+//import com.lti.javaproj.*;
 
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
+//import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 
 public class MyApp {
 
@@ -8,6 +9,7 @@ public class MyApp {
 		// TODO Auto-generated method stub
 		Product p=new Product(100,"Pen",1000);
 		System.out.println(p.toString());
+		System.out.println("Hello!!!");
 	}
 
 }
